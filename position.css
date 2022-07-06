@@ -1,0 +1,42 @@
+
+body { 
+    background: #aaa;
+    height: 500 px;
+    width: 300 px;
+}
+ .img-guitar-responsive {
+    width: 50em;
+    /*height: 50em;*/
+    background: rgb tomato;
+     
+
+}
+.cuadrado {
+    width: 10em;
+    height: 10em;
+    background: rgb(61, 64, 238);
+    border-radius: 50%;
+}
+.container{
+
+    height: 50em;
+    width: 50em;
+}
+
+.cuboUno{
+    height: 20em;
+    width: 20em;
+    background:pink;
+
+}
+.cuboDos{
+    height: 30em;
+    width: 30em;
+    background: greenyellow;
+}
+
+.cuboTres{
+    height: 20em;
+    width: 20em;
+    background:orangered;
+}
